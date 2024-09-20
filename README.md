@@ -6,4 +6,4 @@ Work flow of single cell RNA analysis pipeline
 3. Remove ambient RNA which might be present in the data using Cell Bender
 4. Single-cell RNA analysis with Seurat v5
 
-Refer the files for a step by step tutorial
+Refer files for a step by step tutorial
